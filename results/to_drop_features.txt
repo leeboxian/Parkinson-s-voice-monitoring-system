@@ -1,0 +1,8 @@
+skewness Shimmer
+std DDF0
+std DF0
+skewness ppq
+kurtosis DDF0
+avg Shimmer
+skewness Jitter
+kurtosis DF0

@@ -1,0 +1,4 @@
+alpha: 25
+fit_intercept: True
+solver: eig
+准确度: 0.57

@@ -1,0 +1,15 @@
+alpha: 0.0001
+batch_size: 32
+epochs: 1000
+eta0: 0.001
+fit_intercept: False
+l1_ratio: 0.15
+learning_rate: constant
+loss: hinge
+n_iter_no_change: 3
+penalty: none
+power_t: 0.5
+shuffle: False
+tol: 0.001
+准确度: 0.86
+ROC AUC: 0.86

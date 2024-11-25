@@ -1,0 +1,5 @@
+metric: manhattan
+n_neighbors: 5
+weights: uniform
+准确度: 0.86
+ROC AUC: 0.88
